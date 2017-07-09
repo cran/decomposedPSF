@@ -1,0 +1,17 @@
+---
+title: "Vignette Title"
+author: "Neeraj Bokde"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+
+The sample example for 'decompsedPSF' package is:
+```{r}
+library(decomposedPSF)
+emdpsf(data = nottem, n.ahead = 6)
+```

@@ -20,4 +20,3 @@ Function to predict with EMD-PSF model
 \examples{
 # emdpsf(data = nottem, n.ahead = 6)
 }
-

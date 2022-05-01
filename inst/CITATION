@@ -1,0 +1,22 @@
+citHeader("To cite decomposedPSF in publications use:")
+
+citEntry(
+  entry    = "Article",
+  title    = "Analysis of differencing and decomposition preprocessing methods for wind speed prediction",
+  author   = personList(as.person("Neeraj Bokde"),
+                   as.person("Andres Feijoo"), 
+                   as.person("Kishore Kulat")),
+  journal  = "Applied Soft Computing",
+  year     = "2018",
+  volume   = "71",
+  pages    = "926--938",
+  issn     = "1568--4946",
+  doi      = "10.1016/j.asoc.2018.07.041", 
+  url      = "https://www.sciencedirect.com/science/article/pii/S1568494618304290",
+  textVersion = paste(
+        "Bokde N, Feijoo A, Kulat K (2018).",
+        "Analysis of differencing and decomposition preprocessing methods for wind speed prediction.",
+        "Applied Soft Computing, 71, 926--938. doi: https://doi.org/10.1016/j.asoc.2018.07.041",
+        "URL https://www.sciencedirect.com/science/article/pii/S1568494618304290"
+  )
+)

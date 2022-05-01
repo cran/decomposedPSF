@@ -17,4 +17,3 @@ returns the predictied results
 \description{
 Function to restrict the legth of dataset in multiples of 24
 }
-

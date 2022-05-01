@@ -20,4 +20,3 @@ Function to predict with EEMD-PSF,ARIMA model
 \examples{
 # eemdpsfarima(data = nottem, n.ahead = 6)
 }
-

@@ -20,4 +20,3 @@ Function to predict with EEMD-ARIMA model
 \examples{
 # eemdarima(data = nottem, n.ahead = 6)
 }
-

@@ -20,4 +20,3 @@ Function to predict with EEMD-PSF model
 \examples{
 # eemdpsf(data = nottem, n.ahead = 6)
 }
-

@@ -20,4 +20,3 @@ Function to predict with EMD-ARIMA model
 \examples{
 # emdarima(data = nottem, n.ahead = 6)
 }
-
